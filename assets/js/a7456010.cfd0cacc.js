@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcigra_wiki=self.webpackChunkcigra_wiki||[]).push([[1235],{688552:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
