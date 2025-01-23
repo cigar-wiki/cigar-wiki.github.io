@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcigra_wiki=self.webpackChunkcigra_wiki||[]).push([[48158],{748158:(a,c,i)=>{i.r(c),i.d(c,{DocSearchModal:()=>e.a1});var e=i(355600)}}]);

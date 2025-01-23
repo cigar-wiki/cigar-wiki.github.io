@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcigra_wiki=self.webpackChunkcigra_wiki||[]).push([[1809],{401809:(i,k,c)=>{c.r(k)}}]);
